@@ -1,0 +1,280 @@
+{
+    "daily_sentiment": {},
+    "weekly_sentiment": {
+        "2024-53": {
+            "compound_score": 0.1748831182795699,
+            "news_count": 93,
+            "min_score": -0.187382,
+            "max_score": 0.560247
+        },
+        "2024-50": {
+            "compound_score": 0.36475,
+            "post_count": 26,
+            "sentiment_std": 0.6892522220326338
+        },
+        "2024-52": {
+            "compound_score": 0.18495637962962963,
+            "news_count": 108,
+            "min_score": -0.097445,
+            "max_score": 0.53403
+        },
+        "2024-51": {
+            "compound_score": 0.11780277777777777,
+            "post_count": 36,
+            "sentiment_std": 0.6079680476281039
+        },
+        "2024-17": {
+            "compound_score": 0.21602835820895522,
+            "post_count": 67,
+            "sentiment_std": 0.5277182148367051
+        },
+        "2024-05": {
+            "compound_score": 0.1975734693877551,
+            "post_count": 49,
+            "sentiment_std": 0.45476868745775023
+        },
+        "2024-06": {
+            "compound_score": 0.5562548387096773,
+            "post_count": 31,
+            "sentiment_std": 0.5203083483044421
+        },
+        "2024-49": {
+            "compound_score": 0.516065,
+            "post_count": 20,
+            "sentiment_std": 0.6386374677976543
+        },
+        "2024-31": {
+            "compound_score": 0.5553378378378377,
+            "post_count": 37,
+            "sentiment_std": 0.5014029880307215
+        },
+        "2024-11": {
+            "compound_score": 0.16058333333333333,
+            "post_count": 12,
+            "sentiment_std": 0.7063369437142273
+        },
+        "2024-39": {
+            "compound_score": 0.9439545454545454,
+            "post_count": 11,
+            "sentiment_std": 0.10300575768228917
+        },
+        "2024-03": {
+            "compound_score": 0.5666680000000001,
+            "post_count": 25,
+            "sentiment_std": 0.4493296195177878
+        },
+        "2024-13": {
+            "compound_score": 0.3191333333333334,
+            "post_count": 21,
+            "sentiment_std": 0.7037101400930936
+        },
+        "2024-44": {
+            "compound_score": 0.5526142857142857,
+            "post_count": 28,
+            "sentiment_std": 0.4204801980340757
+        },
+        "2024-25": {
+            "compound_score": 0.56625,
+            "post_count": 14,
+            "sentiment_std": 0.403240498515287
+        },
+        "2024-12": {
+            "compound_score": 0.81864375,
+            "post_count": 16,
+            "sentiment_std": 0.28855019920446684
+        },
+        "2024-29": {
+            "compound_score": 0.7176923076923077,
+            "post_count": 13,
+            "sentiment_std": 0.3843526655030376
+        },
+        "2024-40": {
+            "compound_score": 0.34252307692307693,
+            "post_count": 13,
+            "sentiment_std": 0.781291396593187
+        },
+        "2024-10": {
+            "compound_score": 0.6176909090909091,
+            "post_count": 11,
+            "sentiment_std": 0.417153029375738
+        },
+        "2024-09": {
+            "compound_score": 0.28590625000000003,
+            "post_count": 16,
+            "sentiment_std": 0.6269449641602821
+        },
+        "2024-27": {
+            "compound_score": 0.45635,
+            "post_count": 18,
+            "sentiment_std": 0.39641366756626
+        },
+        "2024-47": {
+            "compound_score": 0.3416076923076922,
+            "post_count": 13,
+            "sentiment_std": 0.6326730562420645
+        },
+        "2024-15": {
+            "compound_score": 0.8005333333333332,
+            "post_count": 12,
+            "sentiment_std": 0.2967101513074484
+        },
+        "2024-35": {
+            "compound_score": 0.8417727272727273,
+            "post_count": 11,
+            "sentiment_std": 0.4045598508163681
+        },
+        "2024-45": {
+            "compound_score": 0.5970454545454547,
+            "post_count": 11,
+            "sentiment_std": 0.16613040531536644
+        },
+        "2024-18": {
+            "compound_score": 0.38775714285714286,
+            "post_count": 28,
+            "sentiment_std": 0.6596618416326069
+        },
+        "2024-23": {
+            "compound_score": 0.6237500000000001,
+            "post_count": 12,
+            "sentiment_std": 0.593356459053072
+        },
+        "2024-42": {
+            "compound_score": 0.7202850000000001,
+            "post_count": 20,
+            "sentiment_std": 0.3725278892579722
+        },
+        "2024-48": {
+            "compound_score": -0.1469222222222222,
+            "post_count": 9,
+            "sentiment_std": 0.6126607159264467
+        },
+        "2024-24": {
+            "compound_score": 0.3325071428571428,
+            "post_count": 14,
+            "sentiment_std": 0.6192493537274276
+        },
+        "2024-37": {
+            "compound_score": -0.009333333333333332,
+            "post_count": 6,
+            "sentiment_std": 0.6794310086797302
+        },
+        "2024-16": {
+            "compound_score": 0.5287388888888889,
+            "post_count": 18,
+            "sentiment_std": 0.5162472578769132
+        },
+        "2024-32": {
+            "compound_score": 0.29746153846153844,
+            "post_count": 13,
+            "sentiment_std": 0.5936973504280825
+        },
+        "2024-46": {
+            "compound_score": 0.6044,
+            "post_count": 14,
+            "sentiment_std": 0.5601612841724375
+        },
+        "2024-08": {
+            "compound_score": 0.61225,
+            "post_count": 18,
+            "sentiment_std": 0.5053202793498617
+        },
+        "2024-20": {
+            "compound_score": 0.27496666666666664,
+            "post_count": 6,
+            "sentiment_std": 0.7593279718862521
+        },
+        "2024-07": {
+            "compound_score": 0.39248095238095243,
+            "post_count": 21,
+            "sentiment_std": 0.5558412402827745
+        },
+        "2024-30": {
+            "compound_score": 0.2123166666666667,
+            "post_count": 12,
+            "sentiment_std": 0.653755712318362
+        },
+        "2024-28": {
+            "compound_score": 0.6246090909090909,
+            "post_count": 11,
+            "sentiment_std": 0.4137496618060589
+        },
+        "2024-36": {
+            "compound_score": 0.6327714285714284,
+            "post_count": 7,
+            "sentiment_std": 0.6335100376119561
+        },
+        "2024-19": {
+            "compound_score": 0.7444142857142857,
+            "post_count": 7,
+            "sentiment_std": 0.2292127734446841
+        },
+        "2024-04": {
+            "compound_score": 0.3978333333333333,
+            "post_count": 12,
+            "sentiment_std": 0.6386312424935762
+        },
+        "2024-38": {
+            "compound_score": 0.5426166666666666,
+            "post_count": 6,
+            "sentiment_std": 0.3649282551254272
+        },
+        "2024-33": {
+            "compound_score": 0.9099499999999999,
+            "post_count": 6,
+            "sentiment_std": 0.05954065137926076
+        },
+        "2024-34": {
+            "compound_score": 0.7991666666666667,
+            "post_count": 3,
+            "sentiment_std": 0.22176542161081428
+        },
+        "2024-21": {
+            "compound_score": 0.37442000000000003,
+            "post_count": 10,
+            "sentiment_std": 0.4847155986761722
+        },
+        "2024-26": {
+            "compound_score": 0.3383277777777778,
+            "post_count": 18,
+            "sentiment_std": 0.5908519327637147
+        },
+        "2024-14": {
+            "compound_score": 0.5206000000000001,
+            "post_count": 7,
+            "sentiment_std": 0.20780059122698788
+        },
+        "2024-02": {
+            "compound_score": 0.48101000000000005,
+            "post_count": 10,
+            "sentiment_std": 0.4834493984896454
+        },
+        "2024-41": {
+            "compound_score": 0.6573249999999999,
+            "post_count": 8,
+            "sentiment_std": 0.38422649488940763
+        },
+        "2024-43": {
+            "compound_score": 0.66495,
+            "post_count": 8,
+            "sentiment_std": 0.40916391886382164
+        },
+        "2024-22": {
+            "compound_score": 0.6890000000000001,
+            "post_count": 4,
+            "sentiment_std": 0.39980120059849744
+        },
+        "2024-01": {
+            "compound_score": 0.0,
+            "post_count": 1,
+            "sentiment_std": 0.0
+        }
+    },
+    "metadata": {
+        "last_updated": "2025-01-10T12:54:02.202432",
+        "sources": {
+            "yahoo_finance": false,
+            "reddit": true,
+            "alpha_vantage": true
+        }
+    }
+}
