@@ -1,19 +1,20 @@
 # Statistical Arbitrage Trading System
 
-A pairs trading system I built to explore statistical arbitrage opportunities between 5 major tech stocks. The project started as an experiment in applying machine learning to traditional stat arb strategies, but evolved into a more comprehensive trading platform.
+A pairs trading system I built to explore statistical arbitrage opportunities between 5 major tech stocks. 
+The project started as an experiment in applying machine learning to traditional stat arb strategies, 
+but evolved into a more comprehensive trading platform.
 
 ## What it Does
 
-The system looks for temporary price divergences between related stocks (like MSFT-GOOGL or AAPL-MSFT) and trades them when the spread becomes statistically significant. It's built around two main components:
+The system looks for temporary price divergences between related stocks (like MSFT-GOOGL or AAPL-MSFT) and trades them 
+when the spread becomes statistically significant. It's built around two main components:
 
 - `strat.py` handles all the strategy logic - finding tradeable pairs, generating signals, and managing positions
 - `backtest.py` lets me test and analyze the strategy's performance on historical data
 
 ### Key Features
 
-I focused on making the system both sophisticated and practical:
-
-- Uses machine learning to score and select the best pairs to trade
+- Uses machine learning to score and select the best pairs to trade (trains on the first six months of 2024)
 - Adapts position sizes based on volatility and correlation
 - Manages risk through position limits and stop losses
 - Accounts for transaction costs and market impact
@@ -23,7 +24,7 @@ I focused on making the system both sophisticated and practical:
 
 The backtest results were pretty encouraging:
 
-- Made a 62.19% total return 
+- Made a 62.19% total return (over five months of testing period in 2024)
 - Annualized to 14.78%
 - Sharpe ratio of 1.02
 - Max drawdown stayed under 10%
